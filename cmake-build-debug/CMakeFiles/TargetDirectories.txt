@@ -1,0 +1,3 @@
+/Users/dirgeydafluffbutt/Documents/Code/CPP/B2Polylines/cmake-build-debug/CMakeFiles/b2Polylines.dir
+/Users/dirgeydafluffbutt/Documents/Code/CPP/B2Polylines/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dirgeydafluffbutt/Documents/Code/CPP/B2Polylines/cmake-build-debug/CMakeFiles/rebuild_cache.dir

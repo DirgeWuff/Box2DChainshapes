@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/dirgeydafluffbutt/Documents/Code/CPP/B2Polylines/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -isystem /opt/homebrew/Cellar/raylib/5.5/include -isystem /usr/local/include -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -I/opt/homebrew/Cellar/raylib/5.5/include -o CMakeFiles/b2Polylines.dir/main.cpp.o -c /Users/dirgeydafluffbutt/Documents/Code/CPP/B2Polylines/main.cpp",
+  "file": "/Users/dirgeydafluffbutt/Documents/Code/CPP/B2Polylines/main.cpp",
+  "output": "CMakeFiles/b2Polylines.dir/main.cpp.o"
+}
+]
